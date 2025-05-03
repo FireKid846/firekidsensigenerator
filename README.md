@@ -8,6 +8,10 @@
 
 A tool that generates optimized sensitivity settings for Free Fire based on your specific device specifications.
 
+<p align="center">
+  <a href="https://firekidsensigenerator.netlify.app/"><img src="https://img.shields.io/badge/Visit%20Our%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="220"></a>
+</p>
+
 ## Overview
 
 The Free Fire Sensitivity Generator analyzes your device's technical specifications to calculate the perfect sensitivity settings for optimal gameplay. By accounting for factors like screen size, refresh rate, touch sampling rate, processor performance, and GPU capabilities, this tool provides personalized sensitivity recommendations that can improve your aim and overall gameplay experience.
