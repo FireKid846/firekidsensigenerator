@@ -1,7 +1,7 @@
 # Free Fire Sensitivity Generator
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<h1 align="center">FREE FIRE SENSITIVITY GENERATOR</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=SENSITIVITY+GENERATOR" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 A tool that generates optimized sensitivity settings for Free Fire based on your specific device specifications.
@@ -101,15 +101,6 @@ Visit our website to use the Free Fire Sensitivity Generator:
   </a>
   <a href="https://whatsapp.com/channel/0029VaT1YDxFsn0oKfK81n2R">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%">
-  </a>
-  <a href="https://instagram.com/_its.silva">
-    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100055490090211">
-    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%">
-  </a>
-  <a href="https://x.com/silva_african">
-    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%">
   </a>
 </p>
 
