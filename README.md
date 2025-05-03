@@ -1,9 +1,7 @@
 # Free Fire Sensitivity Generator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=28&pause=750&color=952323&center=true&width=435&lines=Hello;Welcome+%F0%9F%98%8A+to+Free+Fire+Sensitivity;This+is+our+official+repository+;Updated+on+May+2025;We+are+offering+the+best;For+Free+Fire+players;Fork+and+give+a+star)](https://git.io/typing-svg)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=FREE+FIRE+SENSITIVITY+GENERATOR" alt="Typing SVG" /></a>
+<h1 align="center">FREE FIRE SENSITIVITY GENERATOR</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 A tool that generates optimized sensitivity settings for Free Fire based on your specific device specifications.
@@ -53,12 +51,11 @@ This generator supports a wide range of devices, including:
 
 ## Installation
 
-```
-git clone https://github.com/yourusername/free-fire-sensitivity-generator.git
-cd free-fire-sensitivity-generator
-npm install
-npm start
-```
+Visit our website to use the Free Fire Sensitivity Generator:
+
+<p align="center">
+  <a href="https://firekidsensigenerator.netlify.app/"><img src="https://img.shields.io/badge/Visit%20Our%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="220"></a>
+</p>
 
 ## Usage
 
@@ -96,19 +93,32 @@ npm start
 - Support for popular devices
 - Basic sensitivity calculations
 
-## 🌟 Connect With Me
+## 🌟 Connect With Us
+
 <p align="center">
-  <a href="https://t.me/firekid_ios"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150"></a>
-  <a href="https://whatsapp.com/channel/0029VaT1YDxFsn0oKfK81n2R"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
-  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
-  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
-  <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
+  <a href="https://t.me/firekid_ios">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VaT1YDxFsn0oKfK81n2R">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%">
+  </a>
+  <a href="https://instagram.com/_its.silva">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100055490090211">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%">
+  </a>
+  <a href="https://x.com/silva_african">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%">
+  </a>
 </p>
 
 <h4 align="center">FREE FIRE SENSITIVITY SUPPORT GROUP</h1>
 
 <p align="center">
-  <a href="https://t.me/firekid_ios"><img src="https://img.shields.io/badge/Join%20Our%20Telegram-FF5700?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/firekid_ios">
+    <img src="https://img.shields.io/badge/Join%20Our%20Telegram-FF5700?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </p>
 
 ## Contributing
